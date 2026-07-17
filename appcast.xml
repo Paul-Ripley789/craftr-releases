@@ -3,8 +3,23 @@
     <channel>
         <title>Promptr Studio Pro</title>
         <item>
+            <title>4.4</title>
+            <pubDate>Fri, 17 Jul 2026 11:35:24 +0000</pubDate>
+            <sparkle:version>89</sparkle:version>
+            <sparkle:shortVersionString>4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 4.4</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px"><li>Verbesserungen und Fehlerbehebungen.</li></ul>
+]]></description>
+            <enclosure url="https://github.com/alm-engineering/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-4.4-89.zip" length="20147823" type="application/octet-stream" sparkle:edSignature="lzv/nRFuFD14Jk8HX1HllO1T24dD3HblQxCX9aUg4+OpfG4aDOD+l+qn9yb2DYA5YcIQu3R5imXulwsVDryDAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/alm-engineering/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro89-35.delta" sparkle:deltaFrom="35" length="2205622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="APO7clTrlVEkDWtq8HIj5Adj72sCzDAx8uyjd7zOLHXqJ7snVRumL7WqdCCPpEWveEfYuBuZKvQ04EsbbrP+Dw=="/>
+                <enclosure url="https://github.com/alm-engineering/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro89-34.delta" sparkle:deltaFrom="34" length="2430134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wYAsKsQQgP8WB8xHXAkwiM52t2veUKUdp6HHN+eaKqRrnxDCde5acGT/odvqXfeSo6asFdDu3fY6BAoUh+IEBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>4.3</title>
-            <pubDate>Fri, 17 Jul 2026 11:15:58 +0000</pubDate>
+            <pubDate>Fri, 17 Jul 2026 11:35:23 +0000</pubDate>
             <sparkle:version>35</sparkle:version>
             <sparkle:shortVersionString>4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -12,13 +27,10 @@
 <ul style="font:13px -apple-system;margin:0;padding-left:18px"><li>Verbesserungen und Fehlerbehebungen.</li></ul>
 ]]></description>
             <enclosure url="https://github.com/alm-engineering/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-4.3-35.zip" length="20126296" type="application/octet-stream" sparkle:edSignature="ZHUuvgsPG860u4w3WZ7iTsyDeugC3Ty4L2EkH27CELCEMxyp4OywhbKBziicOxBnfF63lAME1Qf6lVaIrdqUCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/alm-engineering/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro35-34.delta" sparkle:deltaFrom="34" length="2074846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TG1gRmDWPQbhdyPEQ2A37/etvX+CUuLoebdyiNTsMwO7RY5ZWjhbH8EVSGeh9hVzYGitu3zfJOoP5Px5z5idDA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>4.2</title>
-            <pubDate>Fri, 17 Jul 2026 11:15:57 +0000</pubDate>
+            <pubDate>Fri, 17 Jul 2026 11:35:23 +0000</pubDate>
             <sparkle:version>34</sparkle:version>
             <sparkle:shortVersionString>4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
