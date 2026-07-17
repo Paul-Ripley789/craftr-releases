@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Promptr Studio Pro</title>
+        <item>
+            <title>4.2</title>
+            <pubDate>Fri, 17 Jul 2026 10:09:03 +0000</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="font:600 15px -apple-system;margin:0 0 6px">Promptr Studio Pro 4.2</h2>
+<ul style="font:13px -apple-system;margin:0;padding-left:18px"><li>Verbesserungen und Fehlerbehebungen.</li></ul>
+]]></description>
+            <enclosure url="https://github.com/alm-engineering/craftr-releases/releases/download/sparkle-updates/Promptr-Studio-Pro-4.2-34.zip" length="20111000" type="application/octet-stream" sparkle:edSignature="hAkGFlJg6dz1e6Ssx7QSg7YDxUbwq3yo+eZlp/2/i4YESsuYwOi6pao4zzP5bEjDpQkmUn8AP0s28uWXURjzCQ=="/>
+        </item>
+    </channel>
+</rss>
