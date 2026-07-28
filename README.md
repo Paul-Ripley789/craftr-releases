@@ -1,8 +1,8 @@
 # Promptr Studio Pro Releases
 
 Downloads + Sparkle-Auto-Update-Feed für Promptr Studio Pro.
-Kein Quellcode — der Frontend-Stand wird unter
-`Paul-Ripley789/craftr-frontend-mac` gespiegelt.
+Kein Quellcode — das kanonische Frontend liegt unter
+`Paul-Ripley789/craftr-frontend-mac`.
 
 - `v*`-Releases: DMG + ZIP zum manuellen Download
 - `sparkle-updates`-Release: App-Archive für den Auto-Updater (nicht manuell laden)
